@@ -1,0 +1,58 @@
+.up {
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid red;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+}
+
+.right {
+    width: 0;
+    height: 0;
+    border-left: 100px solid green;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+}
+
+.bottom {
+    width: 0;
+    height: 0;
+    border-top: 100px solid rgb(0, 110, 255);
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+}
+
+.left {
+    width: 0;
+    height: 0;
+    border-right: 100px solid orange;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+}
+
+.top-left {
+    width: 0;
+    height: 0;
+    border-top: 100px solid greenyellow;
+    border-right: 100px solid transparent;
+}
+.top-right {
+    width: 0;
+    height: 0;
+    border-top: 100px solid skyblue;
+    border-left: 100px solid transparent;
+}
+
+.bottom-left {
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid tomato;
+    border-right: 100px solid transparent;
+}
+
+.bottom-right {
+    width: 0;
+      height: 0;
+      border-bottom: 100px solid palevioletred;
+      border-left: 100px solid transparent;
+}
